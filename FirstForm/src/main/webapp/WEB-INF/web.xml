@@ -12,7 +12,7 @@
   
   <servlet>
   	<servlet-name>FirstForm</servlet-name>
-  	<servlet-class>com.form.servlets.FirstForm.FirstForm</servlet-class>
+  	<servlet-class>com.form.FirstForm.FirstForm</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>FirstForm</servlet-name>
